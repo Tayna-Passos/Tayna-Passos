@@ -23,7 +23,7 @@
 
 <br clear="both">
 
-<h2 align="center">Oii, meu nome é Tayná sou estudante de TADS na universidade IX de julho.</h2>
+<h2 align="center">Oii, meu nome é Tayná, sou graduada em TADS pela universidade IX de julho.</h2>
 
 <div align="center">
   <a href="https://tayna-passos.github.io/Portfolio/" target="_blank">
